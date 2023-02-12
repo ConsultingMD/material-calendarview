@@ -1,7 +1,7 @@
 <img src="/images/hero.png"/>
 
 # Material Calendar View 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Material%20Calendar%20View-blue.svg?style=flat)](https://android-arsenal.com/details/1/1531) [![](https://jitpack.io/v/prolificinteractive/material-calendarview.svg)](https://jitpack.io/#prolificinteractive/material-calendarview) [![Travis branch](https://img.shields.io/travis/prolificinteractive/material-calendarview.svg?maxAge=2592000)](https://travis-ci.org/prolificinteractive/material-calendarview)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Material%20Calendar%20View-blue.svg?style=flat)](https://android-arsenal.com/details/1/1531)[![](https://jitpack.io/v/galcyurio/androidx-material-calendarview.svg)](https://jitpack.io/#galcyurio/androidx-material-calendarview)[![Travis branch](https://img.shields.io/travis/prolificinteractive/material-calendarview.svg?maxAge=2592000)](https://travis-ci.org/prolificinteractive/material-calendarview)
 
 A Material design back port of Android's CalendarView. The goal is to have a Material look
 and feel, rather than 100% parity with the platform's implementation.
@@ -25,7 +25,7 @@ Step 2. Add the dependency
 
 ```groovy
 dependencies {
-  implementation 'com.github.prolificinteractive:material-calendarview:${version}'
+  implementation 'com.github.galcyurio:androidx-material-calendarview:${version}'
 }
 ```
 
